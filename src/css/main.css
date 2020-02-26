@@ -1,0 +1,9 @@
+textarea {
+  background: url(../img/textareabg.jpg) center center no-repeat;
+  border: 1px solid #888;
+  color: #fef;
+}
+
+.hidden {
+  display: none;
+}
